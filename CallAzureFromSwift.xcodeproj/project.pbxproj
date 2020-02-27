@@ -13,6 +13,7 @@
 		278257FC24082139008932CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 278257FA24082139008932CD /* Main.storyboard */; };
 		278257FE2408213B008932CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 278257FD2408213B008932CD /* Assets.xcassets */; };
 		278258012408213B008932CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 278257FF2408213B008932CD /* LaunchScreen.storyboard */; };
+		27825809240828A5008932CD /* IMG_6306.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 27825808240828A5008932CD /* IMG_6306.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		278257FD2408213B008932CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		278258002408213B008932CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		278258022408213B008932CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27825808240828A5008932CD /* IMG_6306.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_6306.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				278257F424082139008932CD /* AppDelegate.swift */,
 				278257F624082139008932CD /* SceneDelegate.swift */,
 				278257F824082139008932CD /* ViewController.swift */,
+				27825808240828A5008932CD /* IMG_6306.JPG */,
 				278257FA24082139008932CD /* Main.storyboard */,
 				278257FD2408213B008932CD /* Assets.xcassets */,
 				278257FF2408213B008932CD /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				278258012408213B008932CD /* LaunchScreen.storyboard in Resources */,
 				278257FE2408213B008932CD /* Assets.xcassets in Resources */,
+				27825809240828A5008932CD /* IMG_6306.JPG in Resources */,
 				278257FC24082139008932CD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
