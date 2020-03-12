@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		277B957424098B5F00CC0117 /* FILE0118.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 277B957324098B5F00CC0117 /* FILE0118.JPG */; };
+		277B957624098BF200CC0117 /* P1030951 copy.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 277B957524098BF200CC0117 /* P1030951 copy.JPG */; };
+		277B95782409D15A00CC0117 /* IMG-20200212-WA0005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 277B95772409D15A00CC0117 /* IMG-20200212-WA0005.jpg */; };
 		278257F524082139008932CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278257F424082139008932CD /* AppDelegate.swift */; };
 		278257F724082139008932CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278257F624082139008932CD /* SceneDelegate.swift */; };
 		278257F924082139008932CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278257F824082139008932CD /* ViewController.swift */; };
@@ -14,9 +17,14 @@
 		278257FE2408213B008932CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 278257FD2408213B008932CD /* Assets.xcassets */; };
 		278258012408213B008932CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 278257FF2408213B008932CD /* LaunchScreen.storyboard */; };
 		27825809240828A5008932CD /* IMG_6306.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 27825808240828A5008932CD /* IMG_6306.JPG */; };
+		279681C12408A59A00693488 /* 000_00082.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 279681C02408A59A00693488 /* 000_00082.JPG */; };
+		279681C32408A5E700693488 /* IMG_0007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 279681C22408A5E700693488 /* IMG_0007.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		277B957324098B5F00CC0117 /* FILE0118.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FILE0118.JPG; sourceTree = "<group>"; };
+		277B957524098BF200CC0117 /* P1030951 copy.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "P1030951 copy.JPG"; sourceTree = "<group>"; };
+		277B95772409D15A00CC0117 /* IMG-20200212-WA0005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG-20200212-WA0005.jpg"; sourceTree = "<group>"; };
 		278257F124082139008932CD /* CallAzureFromSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CallAzureFromSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		278257F424082139008932CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		278257F624082139008932CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +34,8 @@
 		278258002408213B008932CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		278258022408213B008932CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27825808240828A5008932CD /* IMG_6306.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_6306.JPG; sourceTree = "<group>"; };
+		279681C02408A59A00693488 /* 000_00082.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 000_00082.JPG; sourceTree = "<group>"; };
+		279681C22408A5E700693488 /* IMG_0007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0007.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +72,11 @@
 				278257F624082139008932CD /* SceneDelegate.swift */,
 				278257F824082139008932CD /* ViewController.swift */,
 				27825808240828A5008932CD /* IMG_6306.JPG */,
+				277B957324098B5F00CC0117 /* FILE0118.JPG */,
+				277B95772409D15A00CC0117 /* IMG-20200212-WA0005.jpg */,
+				279681C02408A59A00693488 /* 000_00082.JPG */,
+				277B957524098BF200CC0117 /* P1030951 copy.JPG */,
+				279681C22408A5E700693488 /* IMG_0007.jpg */,
 				278257FA24082139008932CD /* Main.storyboard */,
 				278257FD2408213B008932CD /* Assets.xcassets */,
 				278257FF2408213B008932CD /* LaunchScreen.storyboard */,
@@ -130,8 +145,13 @@
 			files = (
 				278258012408213B008932CD /* LaunchScreen.storyboard in Resources */,
 				278257FE2408213B008932CD /* Assets.xcassets in Resources */,
+				279681C12408A59A00693488 /* 000_00082.JPG in Resources */,
 				27825809240828A5008932CD /* IMG_6306.JPG in Resources */,
+				279681C32408A5E700693488 /* IMG_0007.jpg in Resources */,
 				278257FC24082139008932CD /* Main.storyboard in Resources */,
+				277B957624098BF200CC0117 /* P1030951 copy.JPG in Resources */,
+				277B95782409D15A00CC0117 /* IMG-20200212-WA0005.jpg in Resources */,
+				277B957424098B5F00CC0117 /* FILE0118.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
